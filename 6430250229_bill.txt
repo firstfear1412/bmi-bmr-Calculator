@@ -1,0 +1,5 @@
+==== Result BMI and BMR ====
+Student ID : 6430250229
+BMI is : 18.94
+BMR is : 1628.40
+******* Success ********
